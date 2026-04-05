@@ -33,13 +33,13 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
   </tr>
   <tr>
     <td>3. Arduino Firmware for TRMS</td>
-    <td>A Documentation of Arduino Firmware Used in the TRMS for experiment 1 and 2</td>
-    <td><a href="https://github.com/niwsri/TRMS/blob/7a6ae352d57586530403b479b04419bf0efa8d8b/TRMS%20Arduino%20Firmware%20Used%20(Listing%201%20and%202).pdf>Link</a></td>
+    <td>A documentation of Arduino firmware used in the TRMS for experiment 1 and 2</td>
+    <td><a href="https://github.com/niwsri/TRMS/blob/7a6ae352d57586530403b479b04419bf0efa8d8b/TRMS%20Arduino%20Firmware%20Used%20(Listing%201%20and%202).pdf">Link</a></td>
   </tr>
   <tr>
-    <td>4. Appsheet hosting app for Andriod</td>
-    <td>The AppSheet Hosting app is required to run the Plastic Detective app on Android devices. The Plastic Detective app operates via this hosting app, ensuring smooth functionality. This link directs users to download the hosting app from the Google Play Store.</td>
-    <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">AppSheet (Andriod)</a></td>
+    <td>4. Pin-by-pin Circuit Information for TRMS</td>
+    <td>A documentation of pin-by-pin circuit information of the TRMS for experiment 1 and 2.</td>
+    <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">Link</a></td>
   </tr>
 </table>
 <br>
