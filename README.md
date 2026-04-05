@@ -27,7 +27,6 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
-    <td>2. Plastic Detective Browser Link</td>
     <td>The Plastic Detective mobile app enables browser-based access to support a seamless experience for users exploring the circular plastic economy. This link allows users to access the app directly in a browser, eliminating the need for installing the AppSheet Hosting app on their devices.</td>
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
