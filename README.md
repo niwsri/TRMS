@@ -23,7 +23,7 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
   </tr>
   <tr>
     <td>1. Arduino Source Code</td>
-    <td>The Plastic Detective mobile app is designed to engage students at all educational levels in understanding the circular economy for plastics using a Citizen Inquiry learning approach. This link allows mobile users to install the app on their devices. Upon clicking the link, users may be prompted to install the AppSheet Hosting app. If the hosting app is already installed, this step will be skipped. The hosting app can also be downloaded from the iTunes Store for iOS or the Google Play Store for Android.</td>
+    <td>Full Arduino source code for the NodeMCU V2 and WeMos D1 mini implementations. They are complete source code for temperature-gradient monitoring and for electrical characterization with extended logging</td>
     <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
   </tr>
   <tr>
