@@ -43,7 +43,7 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
   </tr>
   <tr>
     <td>5. TRMS Classroom Implementation</td>
-    <td>A documentation of TRMS classroom implementation for experiment 1 and 2</td>
+    <td>A documentation of TRMS classroom implementation for experiment 1 and 2, and an evaluation of the TRMS approach</td>
     <td><a href="https://github.com/niwsri/TRMS/blob/7a6ae352d57586530403b479b04419bf0efa8d8b/TRMS%20Arduino%20Firmware%20Used%20(Listing%201%20and%202).pdf">Link</a></td>
   </tr>
 </table>
