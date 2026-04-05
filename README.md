@@ -1,6 +1,6 @@
 # Making thermoelectric current visible: Arduino data acquisition with Blynk mobile visualisation in physics classroom
 <br>
-<b>Niwat Srisawasdi*, Tawinan Jan-in, Banjong Prasongsup, Patcharin Panjaburee</b><br>
+<b>Prapawan Thongsri, Niwat Srisawasdi*</b><br>
 *Corresponding author:<a href= "mailto: niwsri@kku.ac.th"> niwsri@kku.ac.th </a><br>
 <br>
 This repository holds all Arduino resources for "Thermoelectric Real-time Measurement System (TRMS)"<br>
