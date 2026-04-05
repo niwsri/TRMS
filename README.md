@@ -39,7 +39,7 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
   <tr>
     <td>4. Pin-by-pin Circuit Information for TRMS</td>
     <td>A documentation of pin-by-pin circuit information of the TRMS for experiment 1 and 2.</td>
-    <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965](https://play.google.com/store/apps/details?id=x1Trackmaster.x1Trackmaster&hl=en&pli=1">Link</a></td>
+    <td><a href="https://github.com/niwsri/TRMS/blob/137bd7d465c4d1137f9773456300684d298f4c08/Pin-by-pin%20Circuit%20Information%20of%20the%20TRMS.pdf">Link</a></td>
   </tr>
 </table>
 <br>
