@@ -32,9 +32,9 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
     <td><a href="https://github.com/niwsri/TRMS/blob/2777da73a702730dfa264b05eb7b33876f2ebbad/Arduino%20Source%20Code%20(Experiment_2).ino">Link</a></td>
   </tr>
   <tr>
-    <td>3. Appsheet hosting app for iOS</td>
-    <td>The AppSheet Hosting app is required to run the Plastic Detective app on iOS devices. While the Plastic Detective app appears to run independently, it operates through this hosting platform. This link directs users to download the hosting app from the iTunes Store.</td>
-    <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">AppSheet (iOS)</a></td>
+    <td>3. Arduino Firmware for TRMS</td>
+    <td>A Documentation of Arduino Firmware Used in the TRMS for experiment 1 and 2</td>
+    <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">Link</a></td>
   </tr>
   <tr>
     <td>4. Appsheet hosting app for Andriod</td>
