@@ -34,7 +34,7 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
   <tr>
     <td>3. Arduino Firmware for TRMS</td>
     <td>A Documentation of Arduino Firmware Used in the TRMS for experiment 1 and 2</td>
-    <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls](https://apps.apple.com/us/app/appsheet/id732548900?platform=iphone">Link</a></td>
+    <td><a href="https://github.com/niwsri/TRMS/blob/7a6ae352d57586530403b479b04419bf0efa8d8b/TRMS%20Arduino%20Firmware%20Used%20(Listing%201%20and%202).pdf>Link</a></td>
   </tr>
   <tr>
     <td>4. Appsheet hosting app for Andriod</td>
