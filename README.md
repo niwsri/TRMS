@@ -11,7 +11,7 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
 </header>
 <br>
 <header>
-  <h1>Quick Key to Access the App: Software Links</h1>
+  <h1>Quick Key to Access the Source Codes and Supplemental Materials</h1>
   <p>Note: The final data set used in analysis is available for public use. Additionally, deidentified raw survey data is available here. Due to IRB Restrictions all data files used in analysis that contain institutional information (Name, ID, etc.) prior to the final merged, and deidientified data are available upon direct request. Following approval, all deidentified data including institutional info will be shared directly.</p>
 </header><br>
 <br>
