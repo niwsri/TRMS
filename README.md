@@ -24,12 +24,12 @@ This repository holds all Arduino resources for "Thermoelectric Real-time Measur
   <tr>
     <td>1. Arduino Source Code (Experiment 1)</td>
     <td>Full Arduino source code for the NodeMCU V2 and WeMos D1 mini implementations. They are complete source code for temperature-gradient monitoring (Experiment 1)</td>
-    <td><a href="https://github.com/niwsri/TRMS/blob/631465fc71955c43160f195c5a1c85f93db8e453/Arduino%20Source%20Code%20(Experiment_1).ino">Download</a></td>
+    <td><a href="https://github.com/niwsri/TRMS/blob/631465fc71955c43160f195c5a1c85f93db8e453/Arduino%20Source%20Code%20(Experiment_1).ino">Link</a></td>
   </tr>
   <tr>
     <td>2. Arduino Source Code (Experiment 2)</td>
     <td>Full Arduino source code for the NodeMCU V2 and WeMos D1 mini implementations. They are complete source code for electrical characterization with extended logging (Experiment 2)</td>
-    <td><a href="https://www.appsheet.com/newshortcut/71d360bd-6a0a-4058-abb1-c8611b21e008">Plastic Detective Install Link</a></td>
+    <td><a href="https://github.com/niwsri/TRMS/blob/2777da73a702730dfa264b05eb7b33876f2ebbad/Arduino%20Source%20Code%20(Experiment_2).ino">Link</a></td>
   </tr>
   <tr>
     <td>3. Appsheet hosting app for iOS</td>
